@@ -81,10 +81,6 @@ By adding noise, Apple balances improving user experience with strong privacy pr
 [Read the Differential Privacy Overview](./Differential_Privacy_Overview.pdf)
 
 
-
-[Apple's Differential Privacy Overview](https://www.apple.com/legal/privacy/en-ww/).
-
-
 ## How Noise Maintains Accuracy
 
 Even though noise adds randomization, the data remains useful because:
