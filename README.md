@@ -2,6 +2,8 @@
 
 An introduction to understanding how noise protects privacy while preserving data utility. This guide explains the basic concepts of data noise through practical examples and visualizations.
 
+[🎥 Watch the video Lab Solution: Differential Privacy in Machine Learning with TensorFlow Privacy (Google Cloud Skills Boost)](https://www.youtube.com/watch?v=_DM1JbuLV8c) and learn these skills hands-on. 
+
 ## What is Data Noise?
 
 Adding noise to data is like applying a slight blur to a photograph: the fine details become harder to identify, but the overall structure remains clear enough for analysis. This balance allows researchers and analysts to uncover general trends while protecting individual privacy.
