@@ -2,7 +2,7 @@
 
 An introduction to understanding how noise protects privacy while preserving data utility. This guide explains the basic concepts of data noise through practical examples and visualizations.
 
-[🎥 Watch my video Lab Solution: Differential Privacy in Machine Learning with TensorFlow Privacy (Google Cloud Skills Boost)](https://www.youtube.com/watch?v=_DM1JbuLV8c) and learn these skills hands-on with Software Girls. 
+[Watch my video Lab Solution: Differential Privacy in Machine Learning with TensorFlow Privacy (Google Cloud Skills Boost)](https://www.youtube.com/watch?v=_DM1JbuLV8c) and learn these skills hands-on with Software Girls. 
 
 ## What is Data Noise?
 
