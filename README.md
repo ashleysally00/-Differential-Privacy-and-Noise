@@ -78,7 +78,7 @@ Apple uses differential privacy to gain insights into user behavior while protec
 - No individual user's typing habits can be reverse-engineered.
 
 By adding noise, Apple balances improving user experience with strong privacy protection. For more details, see
-[Read the Differential Privacy Overview](./Differential_Privacy_Overview.pdf)
+[Read their Differential Privacy Overview](./Differential_Privacy_Overview.pdf).
 
 
 
