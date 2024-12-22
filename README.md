@@ -77,7 +77,11 @@ Apple uses differential privacy to gain insights into user behavior while protec
 - Typing patterns are studied with added noise to improve autocorrect suggestions.
 - No individual user's typing habits can be reverse-engineered.
 
-By adding noise, Apple balances improving user experience with strong privacy protection. For more details, see [Apple's Differential Privacy Overview](https://www.apple.com/legal/privacy/en-ww/).
+By adding noise, Apple balances improving user experience with strong privacy protection. For more details, see
+[Apple's Differential Privacy Overview](./docs/Differential_Privacy_Overview.pdf)
+
+
+[Apple's Differential Privacy Overview](https://www.apple.com/legal/privacy/en-ww/).
 
 
 ## How Noise Maintains Accuracy
