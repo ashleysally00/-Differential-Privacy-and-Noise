@@ -10,7 +10,7 @@ Adding noise to data is like applying a slight blur to a photograph: the fine de
 
 When we "blur" data, similar to a photograph:
 
-- In data privacy, noise obscures the details that could identify individuals (fine details).
+- In data privacy, added noise can obscure the details that could identify individuals (fine details).
 - However, the overall patterns, trends, or relationships in the data (general image) remain intact and useful for analysis.
 
 ## How This Works in Practice
