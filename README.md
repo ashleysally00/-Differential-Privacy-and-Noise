@@ -13,6 +13,9 @@ When we "blur" data, similar to a photograph:
 - In data privacy, added noise can obscure the details that could identify individuals (fine details).
 - However, the overall patterns, trends, or relationships in the data (general image) remain intact and useful for analysis.
 
+This visualization demonstrates how adding noise to location data protects individual privacy (like home addresses) while preserving useful patterns for analysis:
+![Privacy visualization showing how data noise protects location data](https://raw.githubusercontent.com/ashleysally00/Differential-Privacy-and-Noise/main/privacy-visual.png)
+
 ## How This Works in Practice
 
 ### Example: Medical Research
